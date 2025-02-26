@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+.textbrand{
+ color: #F1A501;
+ font: Inter;
+ font-weight: 700;
+ size: 36px;
+}
+.learnbutton{
+    background-color: #FFC080;
+    color: black;
+}
+.learnbutton:hover{
+    background-color: #F1A501;
+}
+.bg{
+    background-color: #101828;
+}
+.custom-color {
+    background-color: #FFF8DC;
+    color:#101828;
+}
+
+.textbrand {
+    color: #F1A501;
+    font: Inter;
+    font-weight: 700;
+    size: 36px;
+}
+.learnbutton {
+    background-color: #FFC080;
+    color: black;
+}
+.learnbutton:hover {
+    background-color: #F1A501;
+}
+.bg {
+    background-color: #101828;
+}
